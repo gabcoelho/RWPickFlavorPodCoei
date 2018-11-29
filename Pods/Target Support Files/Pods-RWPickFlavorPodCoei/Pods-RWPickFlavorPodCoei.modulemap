@@ -1,6 +1,0 @@
-module Pods_RWPickFlavorPodCoei [system] {
-  umbrella header "Pods-RWPickFlavorPodCoei-umbrella.h"
-
-  export *
-  module * { export * }
-}

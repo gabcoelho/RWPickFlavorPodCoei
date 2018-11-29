@@ -18,6 +18,7 @@
 		9866405B21B0014300302B1E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9866405021B0014300302B1E /* Main.storyboard */; };
 		9866405C21B0014300302B1E /* IceCreamView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9866405221B0014300302B1E /* IceCreamView.swift */; };
 		9866405D21B0014300302B1E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9866405421B0014300302B1E /* Images.xcassets */; };
+		98D8116F21B00BFC001901DC /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98D8116E21B00BFC001901DC /* TestViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		9866405121B0014300302B1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9866405221B0014300302B1E /* IceCreamView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IceCreamView.swift; sourceTree = "<group>"; };
 		9866405421B0014300302B1E /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		98D8116E21B00BFC001901DC /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 		E19D1335517EF375690C639B /* Pods-RWPickFlavorPodCoei.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RWPickFlavorPodCoei.release.xcconfig"; path = "Pods/Target Support Files/Pods-RWPickFlavorPodCoei/Pods-RWPickFlavorPodCoei.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -111,6 +113,7 @@
 			children = (
 				9866404B21B0014300302B1E /* PickFlavorViewController.swift */,
 				9866404C21B0014300302B1E /* PickFlavorDataSource.swift */,
+				98D8116E21B00BFC001901DC /* TestViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -248,6 +251,7 @@
 			files = (
 				9866405621B0014300302B1E /* RGBAColorFromString.swift in Sources */,
 				9866405821B0014300302B1E /* PickFlavorDataSource.swift in Sources */,
+				98D8116F21B00BFC001901DC /* TestViewController.swift in Sources */,
 				9866405521B0014300302B1E /* Flavor.swift in Sources */,
 				9866405C21B0014300302B1E /* IceCreamView.swift in Sources */,
 				9866405721B0014300302B1E /* PickFlavorViewController.swift in Sources */,
